@@ -1,58 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Dhvani Chavda</h1>
-<h3 align="center">Final Year Computer Engineering Student | SAP Certified ABAP Cloud Developer | Reliance Foundation Scholar</h3>
+<p align="center">
+  <img width="80%" alt="Hi, I'm Dhvani" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Dhvani+Chavda!;Computer+Engineering+Student+%F0%9F%93%9A;SAP+Certified+ABAP+Cloud+Developer;Tech+Explorer+%7C+Project+Builder" />
+</p>
 
 ---
 
-### 💻 About Me
+I'm a final year Computer Engineering student from India 🇮🇳, deeply passionate about coding, learning, and creating real-world projects that solve problems.
 
-- 🎓 Final year B.E. student, Computer Engineering – passionate about software development and building impactful applications  
-- 🏆 **SAP Certified Associate – ABAP Cloud**  
-- 🎯 Learning by building: real-world projects in Python, JavaScript, Java, and more  
-- 👩‍💻 Interested in **Back-End Development**, **AI/ML**, and **Data Visualization**
+### 👩‍💻 About Me
 
----
-
-### 🧠 Currently Working On
-
-- 🔍 **Anomaly Detection App** using Teachable Machine + Streamlit  
-- 📊 Interactive charts with **D3.js** & **CanvasJS**  
-- 💊 Healthcare apps like **MedWise-AI** & **Diagno-AI**
+- 🎓 Final Year @ Gujarat Technological University  
+- ✅ SAP Certified Associate – ABAP Cloud  
+- 🏅 Reliance Foundation Undergraduate Scholar  
+- 💡 Exploring **Backend Development**, **AI/ML**, and **Interactive Web Apps**  
+- 🧠 Always curious to try out new tools, libraries, and frameworks  
+- 📚 Currently learning: MySQL + PHP integration, Advanced Java, and D3.js  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools I Use
 
-- **Languages**: Python, JavaScript, Java, PHP, C/C++  
-- **Web Dev**: HTML5, CSS3, Bootstrap, Streamlit  
-- **Tools**: Git, VS Code, MySQL, SAP BTP  
-- **Frameworks**: Node.js, D3.js, CanvasJS, EJS  
-- **Others**: PowerShell, Shell Scripting
-
----
-
-### 📂 Projects Preview
-
-Here are some of my featured public repositories:
-
-- 🔬 [`anomaly-detection-app`](https://github.com/ChavdaDhvani/anomaly-detection-app): Real-time anomaly detection using ML  
-- 🌐 [`Streamlit-App`](https://github.com/ChavdaDhvani/Streamlit-App): Python-based interactive dashboards  
-- 💡 [`Diagno-AI`](https://github.com/ChavdaDhvani/Diagno-AI): AI-powered medical diagnosis prototype  
-- 🧑‍💼 [`Employee-Management-System`](https://github.com/ChavdaDhvani/Employee-Management-System): Web app for managing employee data  
-- 📚 [`Complete-DSA-with-Kunal`](https://github.com/ChavdaDhvani/Complete-DSA-with-Kunal): My DSA learning journey
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="20" alt="streamlit" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png"></code>
+<code><img height="20" alt="sap" src="https://img.icons8.com/color/48/sap.png"></code>
+<code><img height="20" alt="d3js" src="https://raw.githubusercontent.com/github/explore/main/topics/d3/d3.png"></code>
 
 ---
 
-### 📫 How to Reach Me
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhvanichavda/)
-- 📧 Email: dhvanichavda03@gmail.com  
-- 🌐 GitHub: [github.com/ChavdaDhvani](https://github.com/ChavdaDhvani)
-
----
-
-### ⚡ Fun Fact
-
-I believe in "learning by doing" – one experiment at a time 🚀
+| <a href="https://github.com/ChavdaDhvani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChavdaDhvani&show_icons=true&theme=dracula&hide_border=true" alt="Dhvani's GitHub stats"/></a> | <a href="https://github.com/ChavdaDhvani"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavdaDhvani&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
+### 📌 Featured Projects
+
+<a href="https://github.com/ChavdaDhvani/anomaly-detection-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChavdaDhvani&repo=anomaly-detection-app&theme=dracula" />
+</a>
+<a href="https://github.com/ChavdaDhvani/Streamlit-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChavdaDhvani&repo=Streamlit-App&theme=dracula" />
+</a>
+<a href="https://github.com/ChavdaDhvani/Diagno-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChavdaDhvani&repo=Diagno-AI&theme=dracula" />
+</a>
+<a href="https://github.com/ChavdaDhvani/Employee-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChavdaDhvani&repo=Employee-Management-System&theme=dracula" />
+</a>
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhvanichavda)
+- 🌐 [GitHub](https://github.com/ChavdaDhvani)
+- 📧 dhvanichavda03@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChavdaDhvani&style=flat-square&color=blue" alt="Dhvani Chavda" />
+</p>
