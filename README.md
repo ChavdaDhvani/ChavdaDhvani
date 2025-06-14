@@ -11,10 +11,19 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 - 🎓 Final Year @ Gujarat Technological University  
 - ✅ SAP Certified Associate – ABAP Cloud  
 - 🏅 Reliance Foundation Undergraduate Scholar  
-- 🤖 Currently learning **AI**, **SAP ABAP**, and other SAP technologies  
-- 🌐 Exploring **Web Development** including HTML, CSS, JavaScript, Node.js, SQL, MongoDB, React, and more  
-- 🔍 Always curious about learning **new technologies** and working on **new projects**  
-- 📚 I believe in learning by doing — and building something every day
+- 💡 Always curious about learning new technologies and working on innovative real-world projects  
+- 🧠 I enjoy turning ideas into applications — whether it's backend logic, APIs, or interactive UIs  
+
+---
+
+### 🚀 Currently Learning
+
+- 🤖 Artificial Intelligence (ML concepts, deployment with Streamlit, etc.)  
+- 🧾 SAP ABAP and other SAP technologies (Fiori, RAP model, BTP, etc.)  
+- 🌐 Full Stack Web Development  
+  - Frontend: HTML5, CSS3, JavaScript, React.js, TailwindCSS  
+  - Backend: Node.js, Express.js, MongoDB, SQL  
+  - Tools: Git, VS Code 
 
 ---
 
@@ -29,9 +38,6 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 <code><img height="20" alt="sap" src="https://img.icons8.com/color/48/sap.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 
 ---
 
@@ -61,12 +67,9 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 
 ### 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhvanichavda)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhvani-chavda-3595402ab/)
 - 🌐 [GitHub](https://github.com/ChavdaDhvani)
 - 📧 dhvanichavda03@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChavdaDhvani&style=flat-square&color=blue" alt="Dhvani Chavda" />
-</p>
