@@ -27,17 +27,14 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 
 ---
 
-### 🛠️ Languages & Tools I Use
+### 🧰 Languages and Tools
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="20" alt="streamlit" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png"></code>
-<code><img height="20" alt="sap" src="https://img.icons8.com/color/48/sap.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+⚔ SKILLS & TOOLS:
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,mongodb,react,nodejs,c,git,github,eclipse,bootstrap" /> </p>
+
+
+
+
 
 ---
 
