@@ -11,9 +11,10 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 - 🎓 Final Year @ Gujarat Technological University  
 - ✅ SAP Certified Associate – ABAP Cloud  
 - 🏅 Reliance Foundation Undergraduate Scholar  
-- 💡 Exploring **Backend Development**, **AI/ML**, and **Interactive Web Apps**  
-- 🧠 Always curious to try out new tools, libraries, and frameworks  
-- 📚 Currently learning: MySQL + PHP integration, Advanced Java, and D3.js  
+- 🤖 Currently learning **AI**, **SAP ABAP**, and other SAP technologies  
+- 🌐 Exploring **Web Development** including HTML, CSS, JavaScript, Node.js, SQL, MongoDB, React, and more  
+- 🔍 Always curious about learning **new technologies** and working on **new projects**  
+- 📚 I believe in learning by doing — and building something every day
 
 ---
 
@@ -26,7 +27,11 @@ I'm a final year Computer Engineering student from India 🇮🇳, deeply passio
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="20" alt="streamlit" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png"></code>
 <code><img height="20" alt="sap" src="https://img.icons8.com/color/48/sap.png"></code>
-<code><img height="20" alt="d3js" src="https://raw.githubusercontent.com/github/explore/main/topics/d3/d3.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 
 ---
 
